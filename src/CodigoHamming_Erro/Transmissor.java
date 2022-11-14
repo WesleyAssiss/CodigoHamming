@@ -1,3 +1,7 @@
+/*
+Wesley Elbert Assis
+*/
+
 package CodigoHamming_Erro;
 
 import java.util.Random;
