@@ -1,3 +1,7 @@
+/*
+Wesley Elbert Assis
+*/
+
 package Codigo_Hamming;
 public class Receptor {
     
